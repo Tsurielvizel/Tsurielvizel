@@ -3,7 +3,7 @@
 🎓 **M.Sc. Student in Mechatronics Engineering** – Ben-Gurion University of the Negev  
 🎓 **B.Sc. in Electrical and Computer Engineering** – Technion – Israel Institute of Technology *(Dean's List)*  
 
-📍 Central District, Israel &nbsp;|&nbsp; 📧 [tsurielvizel@campus.technion.ac.il](mailto:tsurielvizel@campus.technion.ac.il)
+📍 Central District, Israel &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/tsuriel-vizel-5ba7796a) &nbsp;|&nbsp; 📧 [vizelts@post.bgu.ac.il](mailto:vizelts@post.bgu.ac.il)
 
 ---
 
@@ -43,4 +43,4 @@ I am currently pursuing my Master's degree in Mechatronics Engineering at BGU, f
 - **Development & Environments:** Git / GitHub, Linux, Windows
 
 ---
-*Feel free to explore my repositories or reach out for research and engineering collaborations!*
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/tsuriel-vizel-5ba7796a) &nbsp;|&nbsp; [vizelts@post.bgu.ac.il](mailto:vizelts@post.bgu.ac.il) &nbsp;|&nbsp; [tsurielvizel@campus.technion.ac.il](mailto:tsurielvizel@campus.technion.ac.il)
