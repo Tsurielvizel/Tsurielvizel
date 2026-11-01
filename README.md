@@ -1,14 +1,14 @@
 # Hi there, I'm Tsuriel Vizel 👋
 
-**M.Sc. Student in Mechatronics Engineering** – Ben-Gurion University of the Negev  
-**B.Sc. in Electrical and Computer Engineering** – Technion – Israel Institute of Technology *(Dean's List)*  
+🎓 **M.Sc. Student in Mechatronics Engineering** – Ben-Gurion University of the Negev  
+🎓 **B.Sc. in Electrical and Computer Engineering** – Technion – Israel Institute of Technology *(Dean's List)*  
 
 📍 Central District, Israel &nbsp;|&nbsp; 📧 [tsurielvizel@campus.technion.ac.il](mailto:tsurielvizel@campus.technion.ac.il)
 
 ---
 
 ### 🔬 About Me & Engineering Focus
-I specialize in the synergy between **autonomous robotics, control systems, and applied AI/ML**:
+I am currently pursuing my Master's degree in Mechatronics Engineering at BGU, following my B.Sc. from the Technion. My work focuses on the synergy between **autonomous robotics, control systems, and applied AI/ML**:
 - **Autonomous Navigation & Robust Robotics:** Anomaly detection, kinematics-based temporal anomaly filtering, and navigation under adversarial signal spoofing.
 - **Control & Mechatronics:** Optimal control, dynamic modeling, state estimation, and sensor integration.
 - **Computer Vision & Signal Processing:** Feature extraction, video processing, dynamic camera calibration, and OCR.
